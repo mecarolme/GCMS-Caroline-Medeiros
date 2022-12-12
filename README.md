@@ -3,4 +3,4 @@
 ## Colaboradores
 Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Caroline Medeiros (dona, @mecarolme)
-* 
+* Ramide Dantas (@ramidedantas)
